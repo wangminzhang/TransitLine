@@ -1,0 +1,10 @@
+D:\GitHub\TransitLine\TransitLine.Common\bin\Debug\TransitLine.Common.dll
+D:\GitHub\TransitLine\TransitLine.Common\bin\Debug\TransitLine.Common.pdb
+D:\GitHub\TransitLine\TransitLine.Common\bin\Debug\Dapper.dll
+D:\GitHub\TransitLine\TransitLine.Common\bin\Debug\System.Web.Mvc.dll
+D:\GitHub\TransitLine\TransitLine.Common\bin\Debug\Dapper.pdb
+D:\GitHub\TransitLine\TransitLine.Common\bin\Debug\Dapper.xml
+D:\GitHub\TransitLine\TransitLine.Common\bin\Debug\System.Web.Mvc.xml
+D:\GitHub\TransitLine\TransitLine.Common\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\GitHub\TransitLine\TransitLine.Common\obj\Debug\TransitLine.Common.dll
+D:\GitHub\TransitLine\TransitLine.Common\obj\Debug\TransitLine.Common.pdb

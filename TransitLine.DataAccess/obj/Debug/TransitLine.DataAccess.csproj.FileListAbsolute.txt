@@ -1,0 +1,12 @@
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\TransitLine.DataAccess.dll
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\TransitLine.DataAccess.pdb
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\TransitLine.Common.dll
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\TransitLine.Entity.dll
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\TransitLine.Common.pdb
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\TransitLine.Entity.pdb
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\GitHub\TransitLine\TransitLine.DataAccess\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\GitHub\TransitLine\TransitLine.DataAccess\obj\Debug\TransitLine.DataAccess.csprojResolveAssemblyReference.cache
+D:\GitHub\TransitLine\TransitLine.DataAccess\obj\Debug\TransitLine.DataAccess.dll
+D:\GitHub\TransitLine\TransitLine.DataAccess\obj\Debug\TransitLine.DataAccess.pdb

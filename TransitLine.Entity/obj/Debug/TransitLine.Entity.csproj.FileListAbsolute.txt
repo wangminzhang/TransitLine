@@ -1,0 +1,4 @@
+D:\GitHub\TransitLine\TransitLine.Entity\bin\Debug\TransitLine.Entity.dll
+D:\GitHub\TransitLine\TransitLine.Entity\bin\Debug\TransitLine.Entity.pdb
+D:\GitHub\TransitLine\TransitLine.Entity\obj\Debug\TransitLine.Entity.dll
+D:\GitHub\TransitLine\TransitLine.Entity\obj\Debug\TransitLine.Entity.pdb

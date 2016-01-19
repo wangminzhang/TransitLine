@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{782D9C4F-BCEF-4C4D-9258-DDB8B42C2986}</ProjectGuid>
+    <ProjectGuid>{0B66D971-C58C-45EC-B883-6088EE47C441}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TransitLine.Common</RootNamespace>
-    <AssemblyName>TransitLine.Common</AssemblyName>
+    <RootNamespace>TransitLine.Entity</RootNamespace>
+    <AssemblyName>TransitLine.Entity</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,16 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Dapper, Version=1.40.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Dapper.1.42\lib\net45\Dapper.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.0.0\lib\net45\System.Web.Mvc.dll</HintPath>
-    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,22 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Authorization\OpenValidate.cs" />
-    <Compile Include="Enum\ErrorEnum.cs" />
-    <Compile Include="Entity\base\BaseController.cs" />
-    <Compile Include="Entity\base\BasePage.cs" />
-    <Compile Include="Entity\base\RequestEntity.cs" />
-    <Compile Include="Entity\base\BaseAccount.cs" />
-    <Compile Include="Entity\base\RequestHander.cs" />
-    <Compile Include="Entity\Line\LineEntity.cs" />
-    <Compile Include="Entity\base\ResponeEntity.cs" />
-    <Compile Include="Entity\Station\StationEntity.cs" />
-    <Compile Include="EX\CustomException.cs" />
+    <Compile Include="Authorization\Account.cs" />
+    <Compile Include="Authorization\Role.cs" />
+    <Compile Include="Authorization\Permission.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
