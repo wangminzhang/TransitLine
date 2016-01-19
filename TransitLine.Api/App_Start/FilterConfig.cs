@@ -11,6 +11,7 @@ namespace TransitLine.Api
         public static void RegitserGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
+            filters.Add(new TransitLine.Api.Authorization.AuthenticationFilter());
         }
     }
 }
