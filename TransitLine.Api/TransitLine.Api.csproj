@@ -87,7 +87,8 @@
     <Compile Include="Areas\Query\Controllers\AccountController.cs" />
     <Compile Include="Areas\Query\Controllers\BusController.cs" />
     <Compile Include="Areas\Query\QueryAreaRegistration.cs" />
-    <Compile Include="Authorization\AuthenticationApi.cs" />
+    <Compile Include="Authorization\AuthenticationFilter.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -104,9 +105,20 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\Action\Controllers\" />
-    <Folder Include="Areas\Query\Views\Account\" />
-    <Folder Include="Areas\Query\Views\Bus\" />
-    <Folder Include="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TransitLine.BusinessLogic\TransitLine.BusinessLogic.csproj">
+      <Project>{63cf4e95-e8e7-46ca-8503-daf63afb0b27}</Project>
+      <Name>TransitLine.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TransitLine.Common\TransitLine.Common.csproj">
+      <Project>{782d9c4f-bcef-4c4d-9258-ddb8b42c2986}</Project>
+      <Name>TransitLine.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TransitLine.Entity\TransitLine.Entity.csproj">
+      <Project>{0b66d971-c58c-45ec-b883-6088ee47c441}</Project>
+      <Name>TransitLine.Entity</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

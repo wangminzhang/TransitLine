@@ -22,3 +22,11 @@ D:\GitHub\TransitLine\TransitLine.Api\bin\zh-Hans\System.Web.Mvc.resources.dll
 D:\GitHub\TransitLine\TransitLine.Api\obj\Debug\TransitLine.Api.dll
 D:\GitHub\TransitLine\TransitLine.Api\obj\Debug\TransitLine.Api.pdb
 D:\GitHub\TransitLine\TransitLine.Api\obj\Debug\TransitLine.Api.csprojResolveAssemblyReference.cache
+D:\GitHub\TransitLine\TransitLine.Api\bin\TransitLine.Common.dll
+D:\GitHub\TransitLine\TransitLine.Api\bin\TransitLine.Common.pdb
+D:\GitHub\TransitLine\TransitLine.Api\bin\TransitLine.BusinessLogic.dll
+D:\GitHub\TransitLine\TransitLine.Api\bin\TransitLine.Entity.dll
+D:\GitHub\TransitLine\TransitLine.Api\bin\TransitLine.BusinessLogic.pdb
+D:\GitHub\TransitLine\TransitLine.Api\bin\TransitLine.Entity.pdb
+D:\GitHub\TransitLine\TransitLine.Api\bin\TransitLine.DataAccess.dll
+D:\GitHub\TransitLine\TransitLine.Api\bin\TransitLine.DataAccess.pdb
