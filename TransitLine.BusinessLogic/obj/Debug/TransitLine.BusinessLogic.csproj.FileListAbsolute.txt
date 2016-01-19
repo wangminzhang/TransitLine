@@ -1,0 +1,14 @@
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\TransitLine.BusinessLogic.dll
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\TransitLine.BusinessLogic.pdb
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\TransitLine.Common.dll
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\TransitLine.DataAccess.dll
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\TransitLine.Entity.dll
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\System.Web.Mvc.dll
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\TransitLine.Common.pdb
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\TransitLine.DataAccess.pdb
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\TransitLine.Entity.pdb
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\System.Web.Mvc.xml
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\obj\Debug\TransitLine.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\obj\Debug\TransitLine.BusinessLogic.dll
+D:\GitHub\TransitLine\TransitLine.BusinessLogic\obj\Debug\TransitLine.BusinessLogic.pdb
